@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "cicd-expert": {
+      "source": "martinholovsky/claude-skills-generator",
+      "sourceType": "github",
+      "computedHash": "0bdbb10c296b5f70e4fe588f4be30bd77f300b06873557af09498fffcd294360"
+    }
+  }
+}
