@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "ci-cd": {
+      "source": "ahmedasmar/devops-claude-skills",
+      "sourceType": "github",
+      "computedHash": "bec1f79d1209f2a6d256f0e1d5ee2a939d757ef4fdac65dbf1cd47560ea9ae7a"
+    },
+    "cicd-expert": {
+      "source": "martinholovsky/claude-skills-generator",
+      "sourceType": "github",
+      "computedHash": "0bdbb10c296b5f70e4fe588f4be30bd77f300b06873557af09498fffcd294360"
+    }
+  }
+}
